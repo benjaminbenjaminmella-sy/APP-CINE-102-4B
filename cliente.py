@@ -9,4 +9,4 @@ class Cliente:
         pass
 
     def calcular_precio(self, precio):
-        pass
+        return precio
