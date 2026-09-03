@@ -27,5 +27,7 @@ cliente_pro = ClientePremium("Eric", "e@gmail.com", 39, 20, 2000)
 print(cliente_pro.calcular_precio(7000))
 
 
+#GIT PUBLICO: https://github.com/benjaminbenjaminmella-sy/APP-CINE-102-4B.git
+
 if __name__ == "__main__":
     main()
